@@ -4,10 +4,12 @@ sections:
   - type: hero_section
     title: Food 4 My health
     subtitle: Stop switching between calendars and task lists!
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: |
+      *   Lose weight
+
+      *   Build muscle
+
+      *   Eat healthier
     actions:
       - label: App Store
         url: /pricing
