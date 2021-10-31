@@ -132,8 +132,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - image: images/person-2.png
-        image_alt: Person 2 photo
+      - image_alt: Person 2 photo
         media_position: left
         media_width: thirty-three
     feature_padding_vert: small
