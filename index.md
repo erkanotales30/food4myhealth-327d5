@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Food 4 My health
     content: >
-      Learn the foods with similar nutritional values, manage your diet and
+      ## Learn the foods with similar nutritional values, manage your diet and
       save/share your recipes
-
 
 
       *   Lose weight
