@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Food 4 My health
     content: |
-      ## Learn the foods with 
+      ### Learn the foods with
 
       *   similar nutritional values
 
