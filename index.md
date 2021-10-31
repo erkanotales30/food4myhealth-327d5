@@ -3,10 +3,17 @@ title: Home
 sections:
   - type: hero_section
     title: Food 4 My health
-    content: |
+    content: >
+      Learn the foods with similar nutritional values, manage your diet and
+      save/share your recipes
+
+
+
       *   Lose weight
 
+
       *   Build muscle
+
 
       *   Eat healthier
     actions:
