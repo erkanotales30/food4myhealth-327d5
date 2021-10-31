@@ -17,7 +17,7 @@ sections:
       - label: Google Play
         url: /pricing
         style: secondary
-    image: images/Blue Phone Text Message Instagram Reel Video.png
+    image: images/imageedit_1_9768852191.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
