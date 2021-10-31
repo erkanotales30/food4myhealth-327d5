@@ -111,10 +111,10 @@ sections:
         media_width: fifty
       - title: Find foods with similar nutritional values
         subtitle: Always be in control
-        content: >-
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
+        content: >+
+          With a smart algorithm we designed for you, you can replace your foods
+          with similar foods based on similarity score. 
+
         actions:
           - label: Take a look
             url: /pricing
