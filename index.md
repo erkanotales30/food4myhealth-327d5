@@ -96,7 +96,6 @@ sections:
   - type: features_section
     features:
       - title: Create your recipe and share it on Instagram
-        subtitle: For true work-life balance
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
           on all your appointments and meetings appear in one place.
