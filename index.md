@@ -132,8 +132,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: “A very useful project management app. I use it every day.”
-        subtitle: 'Travis Guidelines, Manager at Company'
+      - subtitle: 'Travis Guidelines, Manager at Company'
         image: images/person-2.png
         image_alt: Person 2 photo
         media_position: left
