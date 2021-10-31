@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Food 4 My health
-    subtitle: Stop switching between calendars and task lists!
     content: |
       *   Lose weight
 
