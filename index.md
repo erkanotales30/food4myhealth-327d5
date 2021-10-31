@@ -3,18 +3,14 @@ title: Home
 sections:
   - type: hero_section
     title: Food 4 My health
-    content: >
-      ## Learn the foods with similar nutritional values, manage your diet and
-      save/share your recipes
+    content: |
+      ## Learn the foods with 
 
+      *   similar nutritional values
 
-      *   Lose weight
+      *   manage your diet
 
-
-      *   Build muscle
-
-
-      *   Eat healthier
+      *   save/share your recipes
     actions:
       - label: App Store
         url: /pricing
