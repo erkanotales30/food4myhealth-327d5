@@ -15,7 +15,6 @@ excerpt: >-
   and family time you need.
 thumb_image: images/post-2.jpg
 thumb_image_alt: Post 4 placeholder image
-image: images/post-2.jpg
 image_alt: Post 4 placeholder image
 image_position: right
 seo:
