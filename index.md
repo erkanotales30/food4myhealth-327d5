@@ -4,13 +4,11 @@ sections:
   - type: hero_section
     title: Food 4 My health
     content: |
-      ### Learn the foods with
+      *   Learn foods with similar nutritional values
 
-      *   similar nutritional values
+      *   Manage your diet
 
-      *   manage your diet
-
-      *   save/share your recipes
+      *   Save/share your recipes
     actions:
       - label: App Store
         url: /pricing
