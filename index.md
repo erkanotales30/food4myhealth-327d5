@@ -16,7 +16,7 @@ sections:
       - label: Google Play
         url: /pricing
         style: secondary
-    image: images/imageedit_1_9768852191.png
+    image: images/ingilizce-arayuz.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
