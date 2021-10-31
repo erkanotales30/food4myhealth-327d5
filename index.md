@@ -68,9 +68,10 @@ sections:
         image_position: top
       - title: Find foods with similar nutritional values
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >+
+          With a smart algorithm we designed for you, you can replace your foods
+          with similar foods based on similarity score.
+
         content_align: left
         actions:
           - label: Learn More
